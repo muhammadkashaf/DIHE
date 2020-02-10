@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
     fontSize: 35,
     marginLeft: 18,
     marginTop: 10,
-    color: 'grey'
+    color: 'blue'
   },
   secondText: {
     fontSize: 30,

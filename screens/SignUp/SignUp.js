@@ -95,13 +95,13 @@ const styles = StyleSheet.create({
         flex: 1,
         width: '95%',
         alignSelf: 'center',
-        backgroundColor: 'white',
+        backgroundColor: '#cad1e9',
     },
     firstText: {
         fontSize: 35,
         marginLeft: 18,
         marginTop: 10,
-        color: 'grey'
+        color: 'blue'
     },
     secondText: {
         fontSize: 30,
