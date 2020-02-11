@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
         width: '95%',
         alignSelf: 'center',
         alignContent: 'center',
-        backgroundColor: 'white',
+        backgroundColor: '#cad1e9',
     },
     text: {
         marginTop: 50,

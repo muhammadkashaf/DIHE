@@ -58,7 +58,7 @@ export default class AttestationNotice extends Component {
 
 const styles = StyleSheet.create({
     HomeView: {
-        marginTop: -20,
+       
         flex: 1,
         width: '95%',
         alignSelf: 'center',
@@ -67,6 +67,7 @@ const styles = StyleSheet.create({
     attesprocess: {
         width: 380,
         height: 500,
+        alignSelf: 'center',
     },
     flowchart1: {
         width: 450,

@@ -45,7 +45,7 @@ const styles = StyleSheet.create({
     flex: 1,
     width: '95%',
     alignSelf: 'center',
-    backgroundColor: 'white',
+    backgroundColor: '#cad1e9',
   },
   firstText: {
     fontSize: 35,
